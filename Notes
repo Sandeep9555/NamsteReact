@@ -1,0 +1,22 @@
+### There Are two types of the dependencies into the React
+
+1:-Dev Depecies It used into the Development
+2:-Dependencies It used into the Production
+
+~ it called Till Date
+^ it called Carret Parsel Automaticly Update his version
+
+## deference btw Pakckege .json and Package-lock.json
+
+Package.json leepas track of current version as well as if any upgrade version is avaliable of the dependncies
+Packege-lock.json keeps track of the exact version of the project dependencies.
+
+##node-modules
+it is like a database that contains actual data of the parcel
+
+##Transitive Dependecies
+dependecies need their own dependencies called as the Transitive dependecies
+
+##every package has its own package.json and its own dependecies
+
+## npx that means Executing A package
